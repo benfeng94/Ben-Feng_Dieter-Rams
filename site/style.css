@@ -1,0 +1,42 @@
+html{padding-left: 10%;
+	padding-right:10%;
+	background: #000;
+}
+	h1{
+	color: black;
+	font-family: tahoma;
+	font-size: 36px;
+	padding-left: 20%;
+	color: #fff;
+	font-weight:bold;
+}
+
+h3{color: black;
+	font-family: arial;
+	font-size: 30px;
+	color:red;
+}
+
+a{ text-decoration: none;
+font-size: 14pt;
+font-family: verdana;
+color: red; }
+
+a:hover {color:#fff;
+	background-color:red;
+}
+
+p{font-size:11pt;
+font-family: verdana;
+color: #fff
+;}
+
+h2{color:red;
+}
+
+li{color: #fff;}
+
+h5{color: black;
+	font-family: arial;
+	font-size: 20px;
+	color:red;
